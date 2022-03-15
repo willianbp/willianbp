@@ -2,7 +2,7 @@
 - 👀 I’m interested in make games
 - 🌱 I’m currently learning programming
 - 💞️ I’m looking to collaborate on make games for people who have a weak pc
-- 📫 How to reach me on willianbp2@gmail.com
+- 📫 How to reach me on 
 
 <!---
 willianbp/willianbp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
