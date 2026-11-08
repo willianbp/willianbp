@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Willian
-- 👀 I’m interested in make games
+- 👀 I’m interested in make games on godot
 - 🌱 I’m currently learning programming
-- 💞️ I’m looking to collaborate on make games for people who have a weak pc
 - 📫 How to reach me on 
 
 <!---
